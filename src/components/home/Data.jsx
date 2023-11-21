@@ -28,7 +28,7 @@ const Data = () => {
         </svg>
       </h1>
       <h3 className="home__subtitle">Visual Designer</h3>
-      <p className="home__description">I'm creative and strongly genuienly by an idea based in Jakarta, an I'm very obsessed with Eca By The Way</p>
+      <p className="home__description">I'm creative and strongly genuienly by an idea based in Jakarta, and By The Way i love ecaa</p>
 
       <a href="#contact" className="button button--flex">
         Say Ecaaa
