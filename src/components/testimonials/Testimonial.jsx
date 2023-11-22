@@ -11,11 +11,12 @@ import { Pagination } from 'swiper/modules';
 
 const Testimonial = () => {
   return (
-    <section className="testimonial container section">
+    <section className="testimonial container section" id='testimonials'>
       <h2 className="section__title">My clients say</h2>
       <span className="section__subtitle">Testimonial</span>
 
       <Swiper className="testimonial__container" loop={true}
+      autoplay={true}
       grabCursor={true}
         spaceBetween={24}
         pagination={{
