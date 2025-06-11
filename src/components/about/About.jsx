@@ -1,7 +1,7 @@
 import React from 'react';
 import './about.css';
 import AboutImg from '../../assets/profile.jpg';
-import CV from '../../assets/John-Cv.pdf';
+import CV from '../../assets/cv-cino.pdf';
 import Info from './Info';
 
 const About = () => {
@@ -15,7 +15,15 @@ const About = () => {
         <div className="about__data">
           <Info />
 
-          <p className="about__description">And all my friends they tell me they see You planning to get on one knee But I want it to be out of the blue So make sure I have no clue When you ask</p>
+          <p className="about__description">
+            I’m a back-end developer with a strong foundation in building reliable server-side systems. 
+            I’ve spent over a year working at Dosdev on paid projects, handled freelance work, and interned 
+            as a fullstack developer at Korpolairud Baharkam Polri.
+            <br /><br />
+            My focus is on developing clean, scalable APIs and maintaining robust architecture behind the scenes. 
+            I’ve also been recognized for my skills, winning 1st place twice in the LKS IT Software competition 
+            (Jakarta Utara) and 3rd place at the DKI Jakarta level.
+          </p>
           <a download="" href={CV} className="button button--flex">
             Download CV
             <svg className="button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">

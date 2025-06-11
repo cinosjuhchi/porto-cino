@@ -41,8 +41,8 @@ const Contact = () => {
             <div className="contact__card">
               <i className="uil uil-envelope contact__card-icon"></i>
               <h3 className="contact__card-title">Email</h3>
-              <span className="contact__card-data">user@gmail.com</span>
-              <a href="mailto:pacino447@gmail.com" className="contact__button">
+              <span className="contact__card-data">muhabibullah186@gmail.com</span>
+              <a href="mailto:muhabibullah186@gmail.com" className="contact__button">
                 Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
               spam
@@ -50,8 +50,8 @@ const Contact = () => {
             <div className="contact__card">
               <i className="bx bxl-whatsapp contact__card-icon"></i>
               <h3 className="contact__card-title">Whatsapp</h3>
-              <span className="contact__card-data">087844750705</span>
-              <a href="https://api.whatsapp.com/send?phone=6287844750705&text=Hello Cino, more information!" className="contact__button">
+              <span className="contact__card-data">+6287732762247</span>
+              <a href="https://api.whatsapp.com/send?phone=6287732762247&text=Hello Cino, more information!" className="contact__button">
                 Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
               spam
