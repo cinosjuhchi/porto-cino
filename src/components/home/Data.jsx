@@ -4,7 +4,7 @@ const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        Muhammad Habibullah Mursalin        
+      M. H. Mursalin    
       </h1>
       <h3 className="home__subtitle">Back End Developer</h3>
       <p className="home__description">I’m a back-end developer based in Jakarta, specializing in building scalable, secure, and high-performance server-side applications. I focus on clean architecture, efficient APIs, and robust data management.</p>
