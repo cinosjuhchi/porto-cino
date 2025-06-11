@@ -27,11 +27,11 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Visual Designer</h3>
-      <p className="home__description">I'm creative and strongly genuienly by an idea based in Jakarta, and By The Way i love ecaa</p>
+      <h3 className="home__subtitle">Back End Developer</h3>
+      <p className="home__description">I’m a back-end developer based in Jakarta, specializing in building scalable, secure, and high-performance server-side applications. I focus on clean architecture, efficient APIs, and robust data management.</p>
 
       <a href="#contact" className="button button--flex">
-        Say Ecaaa
+        Get in Touch
         <svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"
